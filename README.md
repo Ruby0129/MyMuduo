@@ -1,6 +1,4 @@
 # MyMuduo
-
-# MyMuduo
 项目描述: 参考 Muduo 网络库使用 C++11 实现的基于 Reactor 模型的多线程网络库。
 主要工作：
 1.底层使用 Epoll 和 LT 模式下的非阻塞 IO 复用模型，并且结合非阻塞 IO 实现主从 Reactor 模型；
